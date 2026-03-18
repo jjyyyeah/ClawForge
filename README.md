@@ -57,7 +57,8 @@ Use the OpenClaw chat to issue commands.
 This project is licensed under the MIT License. Contributions are welcome!
 
 ## Team
-- **Jack:** [your_email@example.com]
+- **Jack:** yzhao9426@gmail.com/ yjack@upenn.edu
+
 
 ---
 Built with pride at the **DGX Spark Hackathon**, San Jose, CA.
