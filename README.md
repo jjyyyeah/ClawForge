@@ -57,7 +57,7 @@ Use the OpenClaw chat to issue commands.
 This project is licensed under the MIT License. Contributions are welcome!
 
 ## Team
-- **Jack:** yzhao9426@gmail.com/ yjack@upenn.edu
+- **Jack Yingjie Zhao:** yzhao9426@gmail.com/ yjack@upenn.edu
 
 
 ---
